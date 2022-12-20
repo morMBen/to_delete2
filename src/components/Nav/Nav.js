@@ -5,6 +5,7 @@ function Nav() {
   return (
     <div className='nav'>
       <div className='nav__logo'>App Logo</div>
+      <div className='nav__buttons'></div>
       <div className='nav__buttons'>
         <Link to='/'>Home</Link>
         <Link to='/about'>About</Link>
