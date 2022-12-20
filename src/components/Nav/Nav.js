@@ -8,10 +8,6 @@ function Nav() {
       <div className='nav__buttons'></div>
       <div className='nav__buttons'>
         <Link to='/'>Home</Link>
-        <Link to='/about'>About</Link>
-        <Link to='/signup'>Sign </Link>
-        {/* Some comment */}
-        <Link to='/signin'>Sign in </Link>
       </div>
     </div>
   );
